@@ -2,5 +2,17 @@
     {
         "package": "utilitybeltgg",
         "url": "https://github.com/selkamand/utilitybeltgg"
+    },
+    {
+        "package": "utilitybeltshiny",
+        "url": "https://github.com/selkamand/utilitybeltshiny"
+    },
+    {
+        "package": "utilitybeltlists",
+        "url": "https://github.com/selkamand/utilitybeltlists"
+    },
+    {
+        "package": "utilitybeltassertions",
+        "url": "https://github.com/selkamand/utilitybeltassertions"
     }
 ]

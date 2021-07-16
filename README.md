@@ -11,7 +11,7 @@ To add your packages to the CCICB 'r-universe', simply add the package name and 
 I Would also reccomend adding `![r-universe](https://selkamand.r-universe.dev/badges/PACKAGE_NAME)` to the top of your github README files to monitor build status.
 
 
-To check on how your builds are progressing, see https://github.com/r-universe/ccicb/actions
+To check on how your builds are progressing, see https://github.com/r-universe/selkamand/actions
 
 To install a package from the CCICB universe, run:
 

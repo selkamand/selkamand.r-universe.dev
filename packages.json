@@ -14,5 +14,10 @@
     {
         "package": "utilitybeltassertions",
         "url": "https://github.com/selkamand/utilitybeltassertions"
+    },
+    {
+        "package": "fastmart",
+        "url": "https://github.com/selkamand/fastmart"
     }
+    
 ]

@@ -18,6 +18,14 @@
     {
         "package": "fastmart",
         "url": "https://github.com/selkamand/fastmart"
+    },
+    {
+        "package": "mutaliskRutils",
+        "url": "https://github.com/selkamand/mutaliskRutils"
+    },
+    {
+        "package": "assertions",
+        "url": "https://github.com/selkamand/assertions"
     }
     
 ]

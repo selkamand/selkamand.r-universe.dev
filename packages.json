@@ -1,5 +1,9 @@
 [
     {
+        "package": "gg1d",
+        "url": "https://github.com/selkamand/gg1d"
+    },
+    {
         "package": "utilitybeltgg",
         "url": "https://github.com/selkamand/utilitybeltgg"
     },

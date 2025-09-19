@@ -30,6 +30,10 @@
     {
         "package": "assertions",
         "url": "https://github.com/selkamand/assertions"
+    },
+      {
+        "package": "ggoncoplot",
+        "url": "https://github.com/selkamand/ggoncoplot"
     }
     
 ]
